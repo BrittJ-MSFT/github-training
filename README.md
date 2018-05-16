@@ -1,4 +1,6 @@
 # github-training
 Sample
 
-** Training class **
+## Header 2
+**Training class**
+
